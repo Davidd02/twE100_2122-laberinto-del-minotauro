@@ -8,6 +8,7 @@
 
 
 Miguel Guirao Villena, [@miguel.guirao@alumnos.upm.es] (https://github.com/MiguelGV22)
+David Gomez Rodriguez, david.gomez52@alumnos.upm.es
 
 
 ## Objetivos del trabajo
